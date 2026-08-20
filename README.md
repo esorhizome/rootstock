@@ -39,7 +39,7 @@ This repo itself never requires an account, never keeps score, and never runs a 
 
 ## License
 
-Everything here is shared under [Creative Commons Attribution-ShareAlike 4.0](LICENSE.md). Use it, adapt it, teach from it, fold it into your own projects — credit *rootstock*, and keep what you build from it equally open.
+Everything here is shared under [Creative Commons Attribution 4.0](LICENSE.md). Use it, adapt it, teach from it, fold it into your own projects — commercial ones included — with a credit line back to *rootstock*. That's the whole ask; [LICENSE.md](LICENSE.md) also spells out what the license *doesn't* touch (learning, ideas, and everything you build from understanding).
 
 ---
 

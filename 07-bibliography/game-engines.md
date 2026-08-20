@@ -9,7 +9,7 @@ Engine *facts* (versions, costs, account gates) live in [05-game-engines](../05-
 ### GDevelop Wiki — Getting Started & tutorials
 <https://wiki.gdevelop.io/gdevelop5/getting_started/> · <https://wiki.gdevelop.io/gdevelop5/tutorials/>
 **What:** The official docs wiki: install-to-first-game walkthrough plus guided beginner projects (platformer, tank shooter).
-**Cost:** ✓ free entirely (CC BY-SA — kin to this repo's own license)
+**Cost:** ✓ free entirely (openly licensed, CC BY-SA)
 **Account:** none
 **Fit:** Short concrete steps; the purely-free front door to the engine AIGR's plan recommends.
 *Last checked: 2026-08-20*
