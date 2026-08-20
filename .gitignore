@@ -1,0 +1,18 @@
+# OS clutter
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editor clutter
+.vscode/
+.idea/
+*.swp
+*~
+
+# Office temp files
+~$*
+
+# Future tooling
+node_modules/
+*.log
+.tmp/
