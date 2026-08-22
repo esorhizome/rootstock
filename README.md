@@ -6,6 +6,10 @@ A **rootstock** is the hardy base plant that a graft grows out of. This repo is 
 
 Begun by Clemence, August 2026. Meant to exist indefinitely.
 
+*Generated from [this prompt](PROMPT.md), with formatting cleaned up.*
+
+
+
 ## Who this is for
 
 People with ADHD. People whose memory drops things — often, and through no fault of theirs. People with dysgraphia, for whom handwriting is a genuine obstacle rather than a study tool. People who tend to talk themselves down, and who also flinch at over-sweetened praise. People who quietly assumed engineering, physics, and maths belong to others — some distant, gifted crowd.
