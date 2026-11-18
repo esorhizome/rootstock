@@ -1,6 +1,6 @@
 # License
 
-**rootstock** © 2026 esorhizome OÜ — text, lessons, diagrams, and bibliography annotations.
+**rootstock** © 2026 Sarah Clemencia Gomes (esorhizome) — text, lessons, diagrams, and bibliography annotations.
 
 All of it is licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
 
